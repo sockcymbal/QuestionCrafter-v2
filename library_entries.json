@@ -1,0 +1,63 @@
+{
+  "entries": [
+    {
+      "id": 1709932938,
+      "originalQuestion": "How can I be more productive?",
+      "refinedQuestion": "What specific daily habits and systems can I implement to increase my focus, energy, and output while maintaining long-term wellbeing?",
+      "expertPersonas": [
+        "Productivity Coach",
+        "Neuroscientist",
+        "Behavioral Psychologist"
+      ],
+      "category": "Productivity",
+      "tags": [
+        "productivity",
+        "habits",
+        "focus"
+      ],
+      "impact": "medium",
+      "author": "Test User",
+      "individualAnswers": [
+        {
+          "name": "Productivity Coach",
+          "answer": "To boost productivity, implement time blocking, the two-minute rule (doing tasks that take less than two minutes immediately), and regular reviews of your system. Create a personalized productivity dashboard to track key metrics and maintain accountability. Remember that consistent small habits compound over time to produce remarkable results."
+        },
+        {
+          "name": "Neuroscientist",
+          "answer": "From a neuroscience perspective, optimize your brain function by taking breaks using the Pomodoro Technique (25 minutes of focus followed by 5-minute breaks). Prioritize quality sleep by maintaining a consistent schedule and avoiding screens before bed. Regular aerobic exercise increases BDNF (Brain-Derived Neurotrophic Factor), which enhances cognitive function and neural plasticity."
+        },
+        {
+          "name": "Behavioral Psychologist",
+          "answer": "Address psychological barriers to productivity by implementing implementation intentions ("If situation X arises, I will do Y") to overcome procrastination. Use temptation bundling by pairing tasks you avoid with activities you enjoy. Structure your environment to minimize distractions and create visual cues that trigger productive behaviors, as our environment often shapes our actions more than willpower alone."
+        }
+      ],
+      "bestAnswer": "For optimal productivity, combine strategic time management (time blocking and the two-minute rule) with brain-optimized work patterns (Pomodoro Technique and regular breaks). Ensure quality sleep and exercise to enhance cognitive function, while implementing psychological strategies like implementation intentions and temptation bundling to overcome procrastination. Create an environment that minimizes distractions and includes visual reminders of your goals. Track your progress with a personalized dashboard to maintain accountability, recognizing that small, consistent habits compound over time to produce significant results.",
+      "date": "2023-03-08T16:42:18.345Z",
+      "votes": 5,
+      "comments": 2,
+      "commentList": [
+        {
+          "id": 1709932940,
+          "entryId": 1709932938,
+          "comment": "I found the neuroscience perspective particularly helpful. Started implementing the Pomodoro technique and it's already making a difference!",
+          "author": "ProductivityFan",
+          "date": "2023-03-08T16:49:00.000Z"
+        },
+        {
+          "id": 1709932941,
+          "entryId": 1709932938,
+          "comment": "Great refinement of the original question. The specific focus on daily habits made me rethink my approach.",
+          "author": "LearnDaily",
+          "date": "2023-03-08T17:05:32.000Z"
+        }
+      ],
+      "views": 12,
+      "status": "featured",
+      "podcast": {
+        "title": "The Transformation Journey: Productivity",
+        "duration": "12:34",
+        "summary": "A question was transformed using the following experts: Productivity Coach, Neuroscientist, Behavioral Psychologist. The refinement focuses on productivity aspects."
+      }
+    }
+  ]
+}
